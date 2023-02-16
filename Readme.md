@@ -1,5 +1,5 @@
 # Projects
 ## Computer Vision
-### [SFM](./SFM/readme.md)  
+### [SFM](https://github.com/amancodeblast/projects/blob/master/sfm/readme.md)  
 
 
